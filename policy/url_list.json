@@ -1,0 +1,29 @@
+[
+  {
+    "name": "url_list1",
+    "urls": [
+      {
+        "pattern": "*.example1.com/*",
+        "type": "SIMPLE"
+      },
+      {
+        "pattern": "*.example2.com/*",
+        "type": "SIMPLE"
+      }
+    ]
+  },
+  {
+    "name": "url_list2",
+    "urls": [
+      {
+        "pattern": "*.example3.com/*",
+        "type": "SIMPLE"
+      },
+      {
+        "pattern": "*.example4.com/*",
+        "type": "SIMPLE"
+      }
+    ]
+  }
+]
+

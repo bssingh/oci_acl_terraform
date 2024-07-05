@@ -1,0 +1,30 @@
+[
+    {
+      "name": "service_1",
+      "portRanges": [
+        {
+          "maximumPort": 10,
+          "minimumPort": 0
+        },
+        {
+          "maximumPort": 20,
+          "minimumPort": 15
+        }
+      ],
+      "type": "TCP_SERVICE"
+    },
+    {
+      "name": "service_2",
+      "portRanges": [
+        {
+          "maximumPort": 900,
+          "minimumPort": 800
+        },
+        {
+          "maximumPort": 600,
+          "minimumPort": 300
+        }
+      ],
+      "type": "UDP_SERVICE"
+    }
+]

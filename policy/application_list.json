@@ -1,0 +1,14 @@
+[
+  {
+    "apps": [
+      "App1"
+    ],
+    "name": "application_list1"
+  },
+  {
+    "apps": [
+      "App2"
+    ],
+    "name": "application_list2"
+  }
+]

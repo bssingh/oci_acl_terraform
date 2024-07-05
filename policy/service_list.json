@@ -1,0 +1,15 @@
+[
+  {
+    "name": "service_list1",
+    "services": [
+      "service_1"
+    ]
+  },
+  {
+    "name": "service_list2",
+    "services": [
+      "service_1",
+      "service_2"
+    ]
+  }
+]

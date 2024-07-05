@@ -1,0 +1,42 @@
+[
+  {
+    "action": "ALLOW",
+    "condition": {
+      "application": [
+        "application_list1"
+      ],
+      "destinationAddress": [
+        "linux"
+      ],
+      "service": [
+        "service_list1"
+      ],
+      "sourceAddress": [
+        "windows"
+      ],
+      "url": [ ]
+    },
+    "inspection": null,
+    "name": "rule1"
+  },
+  {
+    "action": "ALLOW",
+    "condition": {
+      "application": [
+        "application_list1"
+      ],
+      "destinationAddress": [
+        "windows"
+      ],
+      "service": [
+        "service_list1"
+      ],
+      "sourceAddress": [
+        "linux"
+      ],
+      "url": ["url_list1"]
+    },
+    "inspection": null,
+    "name": "rule2"
+  }
+]

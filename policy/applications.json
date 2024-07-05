@@ -1,0 +1,19 @@
+[
+  {
+    "name": "App1",
+    "type": "ICMP",
+    "icmpType": 8,
+    "icmpCode": 0
+  },
+  {
+    "name": "App2",
+    "icmpType": 8,
+    "type": "ICMP"
+  },
+  {
+    "name": "App3",
+    "icmpType": 8,
+    "type": "ICMP_V6"
+  }
+]
+
